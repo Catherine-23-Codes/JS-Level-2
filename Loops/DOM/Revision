@@ -57,3 +57,7 @@ Key Rules
 querySelectorAll() → NodeList, not single element
 Inline styles override CSS
 Always use quotes for style values
+
+
+
+reference : https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
